@@ -1,7 +1,7 @@
 <?php
 
 /*
-file:login.Auth
+file:errorMsgs
 Author:A.N
 Last updated:2025.11.21
 */

@@ -1,9 +1,8 @@
 <?php
 /*
-    ファイル    : loginAuth.php
-    作成者      : A.N
-    最終更新日  : 2025/11/21
-    概要        : ユーザIDとパスワードを照合し、権限を返す
+file:login.Auth
+Author:A.N
+Last updated:2025.11.21
 */
 
 require_once 'errorMsgs.php';    // エラー返却処理

@@ -3,7 +3,6 @@
 file:login.Auth
 Author:A.N
 Last updated:2025.11.21
-権限判定用関数
 */
 
 // 1.エラー返却処理を読み込み
