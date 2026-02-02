@@ -1,7 +1,7 @@
 <?php
 /*
 file:userMedInfo
-Author:A.I
+Author:A.N
 Last updated:2025.12.08
 */
 // 1. エラー返却処理を読み込み

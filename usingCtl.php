@@ -3,6 +3,7 @@
 file:usingCtl
 Author:A.N
 Last updated:2025.12.03
+
 */
 // エラー返却処理
 require_once 'errorMsgs.php';

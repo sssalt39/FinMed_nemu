@@ -1,7 +1,7 @@
 <?php
 /*
 file:medDetail
-Author:A.I
+Author:A.N
 Last updated:2025.12.08
 */
 
